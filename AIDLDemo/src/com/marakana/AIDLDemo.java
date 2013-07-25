@@ -1,4 +1,10 @@
-package com.marakana;
+asasdasdasdadasdadasd
+d
+sad
+as
+das
+d
+asdapackage com.marakana;
 
 import android.app.Activity;
 import android.content.ComponentName;
